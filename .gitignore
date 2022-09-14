@@ -1,0 +1,12 @@
+models
+save
+venv
+
+.idea
+__pycache__
+
+test.py
+Roma_with_glass.png
+Roma.png
+
+scripted_chatbot.pth

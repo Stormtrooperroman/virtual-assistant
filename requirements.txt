@@ -1,0 +1,12 @@
+torch~=1.10.0
+pyttsx3~=2.90
+sounddevice~=0.4.4
+vosk~=0.3.42
+wikipedia~=1.4.0
+opencv-python~=4.6.0.66
+numpy~=1.21.4
+requests~=2.28.1
+pytgbot~=5.7
+nltk~=3.6.5
+face-recognition
+SpeechRecognition
